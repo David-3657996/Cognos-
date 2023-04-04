@@ -1,2 +1,1 @@
-This is the projects with Cognos
 https://dataplatform.cloud.ibm.com/dashboards/5bf49953-80d4-4c8a-9598-d62a9ac40f80/view/7764fc1a6fad32cd5ee9eae407cd2c537c36205cb1bb800080d47b495a612297a9614599c8261a5ad9160467f0e9140fcd
